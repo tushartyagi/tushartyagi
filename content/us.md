@@ -1,11 +1,10 @@
 Title: Us
 Date: 04-11-2014
 Modified:
-Status: hidden
-Category: Philosophy
+Category: Life-Lesson
 Tags: Life
 Slug: us
-Author: Tushar
+Author: Tushar Tyagi
 
 Try this. Take some time out from the busy life, the one which you live
 everyday, and have been living everyday since you started living and get to a

@@ -1,7 +1,7 @@
 Title: Time Scales of Life
 Date: 2014-05-17 13:48
-Author: tushartyagi
-Category: Uncategorized
+Author: Tushar Tyagi
+Category: Life-Lesson
 Slug: time-scales-of-life
 
 Life is ruled by time. Though some people get more and some people get

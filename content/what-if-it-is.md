@@ -1,7 +1,7 @@
 Title: What if it is?
 Date: 2014-04-13 14:33
-Author: tushartyagi
-Category: Lessons
+Author: Tushar Tyagi
+Category: Life-Lesson
 Slug: what-if-it-is
 
 http://www.youtube.com/watch?v=q0EcNdM79sA

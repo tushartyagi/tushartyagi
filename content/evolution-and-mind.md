@@ -1,7 +1,7 @@
 Title: Evolution and Mind
 Date: 2014-05-13 00:49
-Author: tushartyagi
-Category: Lessons
+Author: Tushar Tyagi
+Category: Life-Lesson
 Slug: evolution-and-mind
 
 Tens of million years ago, a seed was planted on the face of the earth

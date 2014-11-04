@@ -1,7 +1,7 @@
 Title: Rationality and Reality
 Date: 2014-07-14 16:52
-Author: tushartyagi
-Category: Uncategorized
+Author: Tushar Tyagi 
+Category: Life-Lesson
 Slug: rationality-and-reality
 
 The thoughts that we have can be divided into two schools. I have what

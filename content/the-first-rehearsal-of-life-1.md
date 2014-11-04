@@ -1,7 +1,7 @@
 Title: The First Rehearsal of Life - Part 1
 Date: 2014-05-31 14:00
-Author: tushartyagi
-Category: Lessons
+Author: Tushar Tyagi
+Category: Life-Lesson 
 Slug: the-first-rehearsal-of-life-1
 
 Almost every religion teaches about a life after death. A person will

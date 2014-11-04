@@ -1,6 +1,6 @@
 Title: The Social Animal, Not!
 Date: 2014-05-30 15:11
-Author: tushartyagi
+Author: Tushar Tyagi
 Category: Rant
 Slug: the-social-animal-not
 

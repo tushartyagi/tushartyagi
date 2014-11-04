@@ -1,7 +1,7 @@
 Title: The Cost of Independence
 Date: 2014-06-14 04:04
 Author: tushartyagi
-Category: Uncategorized
+Category: Life-Lesson
 Slug: the-cost-of-independence
 
 Every person likes the other person to be like him, it's unconscious.
