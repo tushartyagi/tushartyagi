@@ -1,0 +1,26 @@
+body {
+    background-color: #FDF6E3;
+}
+
+.post-header,
+.site-header
+{
+    text-align: center;
+}
+
+.post-content {
+    font-size: 16px;
+    word-spacing: 2px;
+    padding: 0 10%;
+}
+
+.no-margin {
+    margin: 0;
+}
+
+@media only screen 
+and (min-width:1224px) { 
+.jumbotron {
+    padding: 80px 0;
+}
+}

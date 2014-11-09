@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+
+
+{% block content %}
+<section id="content">
+<header class="jumbotron site-header">
+<h1>Tushar Tyagi</h1>
+<h3>Random musings and rants</h3>
+</header>
+<div class="container">
+<ul id="post-list">
+{% for article in articles_page.object_list %}
+<div class="col-md-6">
+<article class="hentry">
+<header> <h2 class="entry-title">
+    <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2>
+<time > {{ article.locale_date }} </time>
+</header>
+                <div class="entry-content"> {{ article.summary }} </div><!-- /.entry-content -->
+        </article></li>
+    </div>
+        {% endfor %}
+</ul><!-- /#posts-list -->
+<div> <!-- /.container -->
+{% include 'pagination.html' %}
+</section><!-- /#content -->
+{% endblock content %}

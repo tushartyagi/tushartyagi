@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% block content %}
+<section>
+<header class="jumbotron site-header">
+<h1>{{ period | join(' ') }}</h1>
+</header>
+
+<dl>
+{% for article in dates %}
+<div class="col-md-6">
+<article class="container post-content">
+    <time>{{ article.date.strftime("%d %b") }}</time>
+    <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+    </article>
+</div>
+    {% endfor %}
+</dl>
+{% endblock %}
+

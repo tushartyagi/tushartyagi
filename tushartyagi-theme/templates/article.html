@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% block head %}
+  {{ super() }}
+  {% for keyword in article.keywords %}
+    <meta name="keywords" contents="{{keyword}}" />
+  {% endfor %}
+
+  {% for description in article.description %}
+    <meta name="description" contents="{{description}}" />
+  {% endfor %}
+
+  {% for tag in article.tags %}
+    <meta name="tags" contents="{{tag}}" />
+  {% endfor %}
+
+{% endblock %}
+
+{% block content %}
+<article class="post">
+  <header class="jumbotron post-header">
+    <h1 class="post-title">
+        {{article.title}}
+    </h1>
+    <time class="published" title="{{ article.date.isoformat() }}">
+      {{ article.locale_date }}
+    </time>
+  </header><!-- /.post-info -->
+  <div class="post-content container">
+    {{ article.content }}
+  </div><!-- /.entry-content -->
+</article>
+{% endblock %}
