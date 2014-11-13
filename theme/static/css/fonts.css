@@ -1,0 +1,42 @@
+@font-face {
+    font-family: "Abraham Lincoln";
+    src: url("/theme/fonts/AbrahamLincoln.ttf");
+}
+
+@font-face {
+    font-family: "EdmondSans Bold";
+    src: url("/theme/fonts/Edmondsans-Bold.otf");
+}
+
+@font-face {
+    font-family: "Homestead";
+     src: url("/theme/fonts/Homestead-Regular.ttf");
+ }
+
+ @font-face {
+     font-family: "Mission-Script";
+      src: url("/theme/fonts/Mission-Script.otf");
+}
+
+@font-face {
+    font-family: "Oil Can";
+    src: url("/theme/fonts/Oil Can.ttf");
+}
+
+
+@font-face {
+    font-family: "Carton-Slab";
+    src: url("/theme/fonts/Carton-Slab.otf");
+}
+
+
+@font-face {
+    font-family: "Cylburn";
+    src: url("/theme/fonts/Cylburn.ttf");
+}
+
+
+@font-face {
+    font-family: "Deming";
+    src: url("/theme/fonts/Deming EP.ttf");
+}

@@ -1,11 +1,14 @@
 body {
     background-color: #FDF6E3;
+    padding-top: 0;
 }
 
 .post-header,
 .site-header
 {
     text-align: center;
+    background-image: linear-gradient(to right, rgba(249, 61, 61, 1), #EC2626);
+    color: #FFF;
 }
 
 .post-content {
